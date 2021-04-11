@@ -1,0 +1,36 @@
+<h3><u>Product List</u></h3>
+<h7><i>Click <i class="fa fa-times fa-danger fa-sm" aria-hidden="true"></i> to delete product</i></h7><br>
+<h7><i>Click <i class="fa fa-pencil-square-o fa-sm" aria-hidden="true"></i> to update product info</i></h7>
+<a class="btn btn-dark text-white float-right" href="/product" style="margin-bottom: 6px;"><i></i> Add New Product in
+    the list</a>
+<table class="table table-dark table-sm table-bordered table-hover table-responsive-xl">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Colour</th>
+            <th>Price (in ₹)</th>
+            <th>Quantity</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each list}}
+        <tr>
+            <td>{{this.name}}</td>
+            <td>{{this.colour}}</td>
+            <td>{{this.price}}</td>
+            <td>{{this.quantity}}</td>
+            <td>
+                <div id="hover-text">
+                    <span title="update the product from list"><a href="/product/{{this._id}}"><i
+                                class="fa fa-pencil-square-o fa-2x" aria-hidden="true"></i></a></span>
+
+                    <span title="delete the product from list"><a href="/product/delete/{{this._id}}"
+                            style="color: red;" onclick="return confirm('Are you sure to delete this product ?');"><i
+                                class="fa fa-times fa-2x fa-danger" aria-hidden="true"></i></a></span>
+                </div>
+            </td>
+        </tr>
+        {{/each}}
+    </tbody>
+</table>
