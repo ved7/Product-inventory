@@ -2,7 +2,10 @@
 <h3><i>Final Site</i> : https://crud-app-vc.herokuapp.com/product</h3>
 <br>
 <img src="https://i.imgur.com/CTTYPGo.gif" width="800" /> 
-
+<ui>
+<li>CREATED A CRUD APPLICATION FOR PRODUCT STORAGE TO CREATE, UPDATE DELETE PRODUCT INFORMATION. </li>
+<li>DESIGNED THIS  NODE JS APPLICATION  WITH EXPRESS FRAMEWORK,  MONGODB CLOUD DATABASE FOR STORAGE AND CONNECT IT WITH HANDLEBAR USING RESTFUL APIS. </li>
+</ui>
 
 
  
