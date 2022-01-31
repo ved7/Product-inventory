@@ -14,10 +14,8 @@
   <li>Express: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs </li>
   <li>MongoDb: https://docs.mongodb.com/ </li>
   <li> Video Course(Paid): https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/ <li>
-  <li> Video Course(Free): https://www.youtube.com/watch?v=Oe421EPjeBE  <li>
+  <li> Video Course(Free): https://www.youtube.com/watch?v=Oe421EPjeBE  </li>
  </ui>
- 
-</ui>
 
 
  
