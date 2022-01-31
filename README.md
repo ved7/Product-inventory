@@ -8,11 +8,11 @@
  <li>This is based on MVC architecture</li></ui>
  <br/>
  <ui>
- <li> Here i have attached the study material to start with own first restful api with nodejs and express framework</li>
+  <li> Here i have attached the study material to start with own first restful api with nodejs and express framework</li>
   <li>nodejs: https://nodejs.org/docs/latest-v15.x/api/</li>
   <li>Express: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs </li>
   <li>MongoDb: https://docs.mongodb.com/ </li>
-  <li> Video Course(Paid): https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/ <li>
+  <li> Video Course(Paid): https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/ </li>
   <li> Video Course(Free): https://www.youtube.com/watch?v=Oe421EPjeBE  </li>
  </ui>
 
