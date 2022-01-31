@@ -3,8 +3,8 @@
 <br>
 <img src="https://i.imgur.com/CTTYPGo.gif" width="800" /> 
 <ui>
-<li>CREATED A CRUD APPLICATION FOR PRODUCT STORAGE TO CREATE, UPDATE DELETE PRODUCT INFORMATION. </li>
-<li>DESIGNED THIS  NODE JS APPLICATION  WITH EXPRESS FRAMEWORK, MONGODB CLOUD DATABASE FOR STORAGE AND CONNECT IT WITH HANDLEBAR USING RESTFUL APIS. </li>
+<li>This repo is made as a stater code for a nodejs application with express framework and mongodb database. </li>
+<li>It contain CRUD i.e create, record, update and delete functionality for restful api.</li>
 </ui>
 
 
